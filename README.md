@@ -1,7 +1,7 @@
 ## **Project Title**  
 **Adventure Works Data Visualization Project** 
 
-![Adventure Works Logo](https://github.com/SumitSagarG/Adventure-Works-Data-Visualization/blob/main/AdventureWorks_Logo.png)
+
 
 ## **Project Description**  
 This Power BI project aims to provide actionable insights through interactive and visually appealing dashboards. The project focuses on sales data of a fictional company called Adventure Works and enables stakeholders to make data-driven decisions.  
