@@ -57,9 +57,5 @@ Adventure Works csv files (provided in download section)
 - Implementation of advanced analytics (e.g., predictive models).  
 - Adding user-level access controls for security.  
 
-## **Author**  
-- Name: Sumit Sagar Gwari 
-- Contact: https://www.linkedin.com/in/sumitsagarg/ 
-
 ---  
 Feel free to contribute by suggesting improvements or reporting issues. Happy analyzing! 🚀
